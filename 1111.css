@@ -40,3 +40,7 @@ ul {
     color: orchid;
     font-size: x-large;
 }
+li:first-child {
+    font-size: x-small;
+    background-color: green;
+}
