@@ -1,0 +1,35 @@
+.block_1{
+    background-color: red;
+    max-width: 400px;
+    margin: auto;
+    height: 300px;
+    position: relative;
+}
+.d6 {
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-left: 100px solid #D0D4DC;
+    border-bottom: 50px solid transparent;
+    position: absolute;
+    left: 40%;
+    top: 33%;
+}
+body {
+    height: 1000px;
+}
+.class1 {
+    font-size: 50px;
+    color: orchid;
+    position: fixed;
+    right: 0;
+    margin: 20px;
+}
+.class2 {
+    font-size: 50px;
+    color: orchid;
+    position: fixed;
+    right: 0;
+    margin: 20px;
+    bottom: 20px;
+}
