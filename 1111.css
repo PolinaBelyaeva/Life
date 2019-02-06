@@ -44,3 +44,6 @@ li:first-child {
     font-size: x-small;
     background-color: green;
 }
+a {
+    color: blue;
+}
